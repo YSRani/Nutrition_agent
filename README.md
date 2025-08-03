@@ -9,3 +9,4 @@ AI Nutrition Assistant built with IBM Watsonx.ai
 
 <img width="927" height="790" alt="sc-3" src="https://github.com/user-attachments/assets/04b9e7d7-a375-4b06-823b-fdb9af3cbcab" />
 
+<img width="929" height="826" alt="sc-4" src="https://github.com/user-attachments/assets/93844b9b-572b-4a8d-8362-f7a486b266d8" />
